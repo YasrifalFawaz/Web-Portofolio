@@ -1,0 +1,39 @@
+{
+    "navbar": {
+      "home": "Beranda",
+      "about": "Tentang",
+      "projects": "Proyek",
+      "title": "Portofolio Saya",
+      "contact": "Kontak"
+    },
+    "home": {
+      "greeting": "Halo, Saya Yasrifal Fawaz",
+      "desc": "Frontend Developer yang tertarik dengan UI/UX dan pengalaman web yang bersih serta interaktif.",
+      "aboutBtn": "Tentang",
+      "projectsBtn": "Proyek",
+      "contactBtn": "Kontak"
+    },
+    "about": {
+      "title": "Tentang Saya",
+      "desc": "Saya mahasiswa Teknik Informatika di Institut Teknologi Nasional Bandung.",
+      "skills": "Keahlian",
+      "tools": "Alat & Framework"
+    },
+    "projects": {
+      "date": "Desember 2025",
+      "title": "Proyek",
+      "hide": "Sembunyikan Proyek",
+      "desc": "web untuk mendaftar puskesmas secara online",
+      "show": "Tampilkan Proyek",
+      "viewGitHub": "Lihat di GitHub",
+      "hidden": "Proyek disembunyikan."
+    },
+    "contact": {
+      "title": "Kontak",
+      "email": "Surel",
+      "phone": "No HP",
+      "github": "GitHub"
+    },
+    "footer": "© 2025 - 152023024 - Yasrifal Fawaz"
+  }
+  

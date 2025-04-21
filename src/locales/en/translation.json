@@ -1,0 +1,39 @@
+{
+    "navbar": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "title": "My Portofolio",
+      "contact": "Contact"
+    },
+    "home": {
+      "greeting": "Hello, I'm Yasrifal Fawaz",
+      "desc": "Frontend Developer passionate about UI/UX and clean, interactive web experiences.",
+      "aboutBtn": "About",
+      "projectsBtn": "Projects",
+      "contactBtn": "Contact"
+    },
+    "about": {
+      "title": "About Me",
+      "desc": "I am an Informatics Engineering student at Institut Teknologi Nasional Bandung.",
+      "skills": "Skills",
+      "tools": "Tools & Frameworks"
+    },
+    "projects": {
+      "date": "December 2025",
+      "title": "Projects",
+      "hide": "Hide Projects",
+      "desc": "website to register for health centers online",
+      "show": "Show Projects",
+      "viewGitHub": "View on GitHub",
+      "hidden": "Projects are hidden."
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email",
+      "phone": "Phone",
+      "github": "GitHub"
+    },
+    "footer": "© 2025 - 152023024 - Yasrifal Fawaz"
+  }
+  
