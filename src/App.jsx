@@ -94,7 +94,7 @@ function App() {
 
       {/* Home */}
       <section id="home" className="min-h-screen bg-gradient-to-b from-purple-100 to-blue-100 flex flex-col items-center justify-center text-center px-4 py-20">
-        <img src="https://via.placeholder.com/150" alt="Profile" className="rounded-full w-28 h-28 md:w-40 md:h-40 border-4 border-white shadow-lg mb-6" />
+        <img src="/images/fotoprofil.jpg" alt="Profile" className="rounded-full w-28 h-28 md:w-40 md:h-40 border-4 border-white shadow-lg mb-6" />
         <h1 className="text-3xl md:text-5xl font-bold text-gray-800">{t('home.greeting')}</h1>
         <p className="mt-3 text-lg md:text-xl text-gray-600 max-w-md px-2">{t('home.desc')}</p>
         <div className="mt-8 flex flex-wrap justify-center gap-3 px-2">
